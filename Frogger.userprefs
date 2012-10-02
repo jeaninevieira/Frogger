@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CarOne.cs">
+    <Files>
+      <File FileName="Assets\Scripts\CarOne.cs" Line="29" Column="30" />
+      <File FileName="C:\Users\TEMP\Desktop\Enemy.js" Line="4" Column="12" />
+      <File FileName="C:\Users\TEMP\Desktop\Bomb.js" Line="74" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
